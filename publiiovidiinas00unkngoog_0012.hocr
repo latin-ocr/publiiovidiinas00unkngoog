@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiiovidiinas00unkngoog_0012.png"; bbox 0 0 3025 5009; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1511 0 1515 1836">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1511 0 1515 1836">
+     <span class='ocr_line' id='line_1_1' title="bbox 1511 0 1515 1836; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1511 0 1515 1836; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 4 1656 1314 2147">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4 1656 1314 2131">
+     <span class='ocr_line' id='line_1_2' title="bbox 530 1656 809 1765; baseline -0.004 -1"><span class='ocrx_word' id='word_1_2' title='bbox 530 1656 809 1765; x_wconf 91' lang='lat' dir='ltr'><strong>PUBLII</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 4 1934 1314 2147; baseline -0.001 -74"><span class='ocrx_word' id='word_1_3' title='bbox 4 2118 7 2131; x_wconf 87' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 218 1936 595 2073; x_wconf 80' lang='lat' dir='ltr'>0ku</span> <span class='ocrx_word' id='word_1_5' title='bbox 652 1934 1125 2147; x_wconf 71' lang='lat' dir='ltr'><strong>NASONIS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1310 2066 1314 2072; x_wconf 79' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 315 2202 1024 2441">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 315 2202 1024 2441">
+     <span class='ocr_line' id='line_1_4' title="bbox 315 2202 1024 2441; baseline -0.003 -28"><span class='ocrx_word' id='word_1_7' title='bbox 315 2202 1024 2441; x_wconf 75' lang='lat' dir='ltr'>PASTORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 497 2532 914 2678">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 497 2532 914 2678">
+     <span class='ocr_line' id='line_1_5' title="bbox 497 2532 914 2678; baseline -0.012 0"><span class='ocrx_word' id='word_1_8' title='bbox 497 2590 674 2678; x_wconf 61' lang='grc' dir='ltr'>ΜΒΝ</span> <span class='ocrx_word' id='word_1_9' title='bbox 700 2532 914 2676; x_wconf 62' lang='lat' dir='ltr'><strong>m</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1518 5009">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1518 5009">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1518 5009; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1518 5009; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
